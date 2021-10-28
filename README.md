@@ -29,6 +29,8 @@ After creating variables that sliced the information to certain 12 month incrame
 
 The final step was creating an hvPlot that showed the values over that two year span. Ran into trouble getting my tables to work together until I utiliced the .T function to transpose the two datasets which solved the issue. 
 
+<img width="834" alt="Screen Shot 2021-10-28 at 3 40 52 PM" src="https://user-images.githubusercontent.com/89325129/139324242-344cef19-ebef-469c-b414-ed1b543da9b7.png">
+
 CONCLUSION
 ------------
 After putting together the data it is clear that due to a multitude of exterior factors that the housing market in North Carolina has seen a significant increase in housing prices over the past 2 years. 
