@@ -22,6 +22,7 @@ To aliviate this problem created different values that only included the title h
 Then using the .loc function called on "State_names" under "NC" to get my NC cities. 
 
 Once the cities were isolated, created for loops to only show housing data that came from certain time frames because the dates were under headers and not values within the dataset. 
+
 <img width="535" alt="Screen Shot 2021-10-28 at 3 00 02 PM" src="https://user-images.githubusercontent.com/89325129/139318764-5c6c8e1b-96c5-4bb6-afb5-549cfb2488e6.png">
 
 After creating variables that sliced the information to certain 12 month incraments, I combined the two, to create a dataset that only shows housing prices from the years 2020 & 2021. 
